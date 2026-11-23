@@ -8,3 +8,4 @@
 .avatar-photo{width:150px;height:150px;border-radius:50%;margin:26px auto 18px;padding:4px;background:linear-gradient(135deg,#b5a2ff,#61e2c7);box-shadow:0 0 0 8px #9c83ef18,0 18px 40px #0007}.avatar-photo img{width:100%;height:100%;border-radius:50%;object-fit:cover;object-position:center 30%;display:block;border:3px solid #10131c}
 .project-card:not(.project-wide) .project-body{height:calc(100% - 220px)}
 @media(max-width:650px){.avatar-photo{width:130px;height:130px}}
+@media(max-width:400px){.brand{letter-spacing:1px;font-size:12px}}
